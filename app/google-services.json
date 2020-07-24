@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "692905436023",
+    "firebase_url": "https://face-tracker-gg-visison.firebaseio.com",
+    "project_id": "face-tracker-gg-visison",
+    "storage_bucket": "face-tracker-gg-visison.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692905436023:android:8290d96241a1bc721cf772",
+        "android_client_info": {
+          "package_name": "com.xtechrik.facedetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692905436023-5jhvem0ru9iff9cupc7ncqnmjdehnfav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xtechrik.facedetect",
+            "certificate_hash": "0fa2a254927bcf4ec5128e8e9b94059a6d562532"
+          }
+        },
+        {
+          "client_id": "692905436023-554jt2oc7dgellski22u076tl9ku4uh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPiSQEzXMrGZWrBmoXEoxqI9EIWheTmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692905436023-554jt2oc7dgellski22u076tl9ku4uh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692905436023:android:059eeacf7fecf5491cf772",
+        "android_client_info": {
+          "package_name": "com.xtechrik.facetrackercamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692905436023-3457nsorscr4kknc79ksom1afhulj3ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xtechrik.facetrackercamera",
+            "certificate_hash": "0fa2a254927bcf4ec5128e8e9b94059a6d562532"
+          }
+        },
+        {
+          "client_id": "692905436023-554jt2oc7dgellski22u076tl9ku4uh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPiSQEzXMrGZWrBmoXEoxqI9EIWheTmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692905436023-554jt2oc7dgellski22u076tl9ku4uh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692905436023:android:ef17901c281a9d2b1cf772",
+        "android_client_info": {
+          "package_name": "com.xtechrik.facetrackervision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692905436023-kp0b2tibb0dcsn37e706tqistcutc225.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xtechrik.facetrackervision",
+            "certificate_hash": "0fa2a254927bcf4ec5128e8e9b94059a6d562532"
+          }
+        },
+        {
+          "client_id": "692905436023-554jt2oc7dgellski22u076tl9ku4uh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPiSQEzXMrGZWrBmoXEoxqI9EIWheTmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692905436023-554jt2oc7dgellski22u076tl9ku4uh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
